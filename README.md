@@ -1,24 +1,24 @@
-🌸 SpendWise: Personal Expenditure Tracker
+SpendWise: Personal Expenditure Tracker
 SpendWise is a lightweight, aesthetic desktop application designed for students to manage their daily expenses. Built with Java Swing and a FlatLaf modern interface, it provides a clean, terminal-style experience using the Consolas font and a color-coded financial dashboard.
 
-✨ Key Features
+Key Features
 Color-Coded Budgeting: The total balance changes color dynamically:
 
-🟢 Leaf Green: Under budget (Safe).
+Leaf Green: Under budget (Safe).
 
-🟡 Lemon Yellow: Approaching limit (Caution).
+Lemon Yellow: Approaching limit (Caution).
 
-🔴 Blood Red: Budget exceeded (Warning).
+Blood Red: Budget exceeded (Warning).
 
 Categorized Spending: Transactions are color-coded by category for instant recognition:
 
-Maroon: Food 🍱
+Maroon: Food 
 
-Gold: Shopping 🛍️
+Gold: Shopping 
 
-Dark Blue: Travel ✈️
+Dark Blue: Travel 
 
-Black: Bills 📄
+Black: Bills 
 
 Visual Analytics: Generate a Pie Chart to see exactly where your money is going.
 
@@ -29,7 +29,7 @@ Export Feature: Save your logs as a .csv file to open in Excel or Google Sheets.
 📸 Preview
 The application features a soft pink aesthetic with high-contrast, category-specific text colors and a custom-drawn analytics engine.
 
-🛠️ Tech Stack
+Tech Stack
 Language: Java (JDK 17 or higher)
 
 UI Framework: Java Swing + FlatLaf (Flat Light Theme)
@@ -38,7 +38,7 @@ Database: SQLite (JDBC)
 
 Typography: Consolas (Monospaced)
 
-🚀 How to Run
+How to Run
 1. Prerequisites
 Make sure you have the following installed:
 
@@ -64,7 +64,7 @@ Run the application:
 
 Bash
 java -cp "lib/*;." Main
-📂 Project Structure
+Project Structure
 Plaintext
 SpendWise/
 ├── src/
@@ -74,7 +74,7 @@ SpendWise/
 │   └── sqlite-jdbc.jar # Database connector
 ├── spendwise.db        # Automatically generated local database
 └── README.md           # Project documentation
-📝 Usage Tips
+Usage Tips
 Set Budget: Click the BUDGET button in the sidebar to define your monthly limit.
 
 Delete Entries: Simply select a row in the table and click the [X] DELETE button.
