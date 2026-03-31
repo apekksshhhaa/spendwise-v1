@@ -26,7 +26,7 @@ Data Persistence: Uses SQLite to save your data locally—no internet required.
 
 Export Feature: Save your logs as a .csv file to open in Excel or Google Sheets.
 
-📸 Preview
+Preview
 The application features a soft pink aesthetic with high-contrast, category-specific text colors and a custom-drawn analytics engine.
 
 Tech Stack
