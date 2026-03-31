@@ -81,4 +81,4 @@ Delete Entries: Simply select a row in the table and click the [X] DELETE button
 
 View Stats: Use the STATS button to visualize your spending distribution.
 
-Developed by a student for students. Stay mindful of your spending! 🌸
+Developed by a student for students. Stay mindful of your spending! 
